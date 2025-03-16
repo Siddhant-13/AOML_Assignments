@@ -1,4 +1,4 @@
-# Machine Learning Assignments
+# AOML Assignments
 
 This repository contains solutions for a series of machine learning assignments covering various topics.
 
